@@ -4,4 +4,4 @@ plugins:
 title: Owned Because We Can
 tagline: Property of Generic Corporation I think
 description: Used for keeping track of assets and logs
-show_downloads: true
+show_downloads: false # disabled for now because need learning
