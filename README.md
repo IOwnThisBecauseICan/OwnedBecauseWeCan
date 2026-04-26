@@ -15,9 +15,10 @@
   <summary>2. List of sites (Currently in lore)</summary>
   
   | Site Designation | Location | Status | Purpose |
-  |----------|----------|----------|----------|
+  |:----------:|:----------:|:----------:|:----------:|
   | A | B | C | D |
   | E | F | G | H |
+  
 </details>
 <details>
   <summary>3. List of known enemies</summary>
