@@ -14,10 +14,13 @@
 <details>
   <summary>2. List of sites (Currently in lore)</summary>
   
-  | Site Designation | Location | Status |
-  |:----------:|:----------:|:----------:|
-  | A | B | C |
-  | E | F | G |
+  | head1        | head two          | three |
+  |:-------------|:------------------|:------|
+  | ok           | good swedish fish | nice  |
+  | out of stock | good and plenty   | nice  |
+  | ok           | good `oreos`      | hmm   |
+  | ok           | good `zoute` drop | yumm  |
+
   
 </details>
 <details>
