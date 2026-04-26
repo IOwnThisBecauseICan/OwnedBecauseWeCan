@@ -14,10 +14,10 @@
 <details>
   <summary>2. List of sites (Currently in lore)</summary>
   
-  | Site Designation | Location | Status | Purpose |
-  |:----------:|:----------:|:----------:|:----------:|
-  | A | B | C | D |
-  | E | F | G | H |
+  | Site Designation | Location | Status |
+  |:----------:|:----------:|:----------:|
+  | A | B | C |
+  | E | F | G |
   
 </details>
 <details>
