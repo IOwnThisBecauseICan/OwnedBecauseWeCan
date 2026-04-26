@@ -1,0 +1,14 @@
+main:
+  - title: "Object 1"
+    url: /object1/
+
+  - title: "Object 2"
+    url: /object2/
+    children:
+      - title: "Object 2.1"
+        url: /object2-1/
+      - title: "Object 2.2"
+        url: /object2-2/
+
+  - title: "Object 3"
+    url: /object3/
