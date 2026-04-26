@@ -12,3 +12,23 @@ main:
 
   - title: "Object 3"
     url: /object3/
+
+docs:
+  - title: "Object 4"
+    url: /object/
+  - title: "Setup"
+    children:
+      - title: "Object 5"
+        url: /object/object/
+      - title: "Object 6"
+        url: /object/object/
+
+api:
+  - title: "Object 7"
+    url: /object/
+  - title: "Object 8"
+    children:
+      - title: "Object 9"
+        url: /object/object/
+      - title: "Object "
+        url: /object/object/
