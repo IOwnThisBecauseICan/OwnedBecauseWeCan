@@ -1,9 +1,10 @@
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "catppuccin_mocha"
+minimal_mistakes_skin: "neon"
 plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
 logo: /Assets/seal-ough.gif
 title: AGenericWiki
+subtitle: A wiki for generic
 tagline: "It's a wiki, what else?"
 description: This is mainly used to keep track of stuff and lore but mainly yeah lore, if you want some like more help or need something that is canon added to the wiki that is not here already then DM on comms server.
