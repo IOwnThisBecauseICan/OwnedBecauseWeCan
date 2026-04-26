@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>AGenericWiki</title>
+    <link>https://iownthisbecauseican.github.io/OwnedBecauseWeCan/</link>
+    <description>RSS feed</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2026 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Test Post #1</title>
+      <link>https://iownthisbecauseican.github.io/OwnedBecauseWeCan/</link>
+      <description>This is my first post.</description>
+      <pubDate>Sun, 26 Apr 2026 10:00:00 GMT</pubDate>
+      <guid>https://iownthisbecauseican.github.io/OwnedBecauseWeCan/</guid>
+    </item>
+
+    <item>
+      <title>Test Post #2</title>
+      <link>https://iownthisbecauseican.github.io/OwnedBecauseWeCan/</link>
+      <description>This is my second post.</description>
+      <pubDate>Sat, 25 Apr 2026 15:00:00 GMT</pubDate>
+      <guid>https://iownthisbecauseican.github.io/OwnedBecauseWeCan/</guid>
+    </item>
+
+  </channel>
+</rss>
