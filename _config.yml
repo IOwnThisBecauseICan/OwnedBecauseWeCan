@@ -1,7 +1,6 @@
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 plugins:
 - jekyll-remote-theme
 title: AGenericWiki
 tagline: Owned by Devy_Berlington and Patient-0
 description: Used for keeping track of assets and logs
-show_downloads: false # disabled for now because need learning
