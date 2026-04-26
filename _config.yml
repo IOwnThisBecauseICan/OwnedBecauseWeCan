@@ -1,6 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+logo: /Assets/seal-ough.gif
 title: AGenericWiki
 tagline: Owned by Devy_Berlington and Patient-0
 description: Used for keeping track of assets and logs
