@@ -7,12 +7,13 @@
 
 ---
 
-## Basic Information
+# Basic Information
 <details>
   <summary>1. The Corporations & Quick Alternate History</summary>
 </details>
 <details>
   <summary>2. List of sites (Currently in lore)</summary>
+
   
   | head1        | head two          | three |
   |:-------------|:------------------|:------|
