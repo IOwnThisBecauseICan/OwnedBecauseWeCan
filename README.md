@@ -5,4 +5,6 @@
 [Basic Info](#basic-information)
 
 # Basic Information
-Basic information that may be needed for context will be placed here and also a quick summary of sides.
+[History Lesson](#brief-alternate-history-lesson)
+## Brief Alternate History Lesson
+Generic lore does mainly follow modern history but with a couple of insane or just 'what if' twists included.
