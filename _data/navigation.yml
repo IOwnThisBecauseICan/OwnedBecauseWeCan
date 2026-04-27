@@ -1,6 +1,6 @@
 main:
-  - title: "Object 1"
-    url: /object1/
+  - title: "Weapons"
+    url: /AnotherMd.md/
 
   - title: "Object 2"
     url: /object2/
